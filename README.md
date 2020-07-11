@@ -5,11 +5,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/clebernascimento)](https://t.me/clebernascimento)
   
 
-### Olá 👋
+### Hi There 👋
 
-Meu nome é Cleber Nascimento, Analista e Desenvolvedor de Sistemas e apaixonado por Desenvolvimento.
+My name is Cleber Nascimento, Systems Analyst and Developer and passionate about Development.
 
 
-- 🧑‍💼 Desenvolvedor Android Mobile
+- 🧑‍💼 Android Mobile Developer
 - 💙 Techs: Android Native, Java, Kotlin, React Native, API RestFull
-- 📚 Estudando: Especialização em Desenvolvimento de Aplicativos Movéis (App's) (Pós Graduação)
+- 📚 Studying: Especialização em Desenvolvimento de Aplicativos Movéis (App's) (Pós Graduação)
