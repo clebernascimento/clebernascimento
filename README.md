@@ -1,16 +1,13 @@
-### Hi there 👋
+👨‍💻 Cleber Nascimento
 
-<!--
-**clebernascimento/clebernascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- LinkedIn
+https://www.linkedin.com/in/cleber-nascimento/
 
-Here are some ideas to get you started:
+### Olá 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Cleber Nascimento, Analista e Desenvolvedor de Sistemas e apaixonado por Desenvolvimento.
+
+
+- 🧑‍💼 Desenvolvedor Android Mobile
+- 💙 Techs: Android Native, Java, Kotlin, React Native, API RestFull
+- 📚 Estudando: Especialização em Desenvolvimento de Aplicativos Movéis (App's) (Pós Graduação)
