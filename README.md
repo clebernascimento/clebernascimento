@@ -10,6 +10,6 @@
 My name is Cleber Nascimento, Systems Analyst and Developer and passionate about Development.
 
 
-- 🧑‍💼 Android Mobile Developer
-- 📲💻 Techs: Android Native, Java, Kotlin, React Native, API RestFull
+- 💼 Android Mobile Developer
+- 📲 Techs: Android Native, Java, Kotlin, React Native, API RestFull
 - 📚 Studying: Specialization in Mobile Application Development (App's) (Postgraduate)
