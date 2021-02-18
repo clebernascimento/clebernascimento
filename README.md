@@ -9,6 +9,7 @@
 
 My name is Cleber Nascimento, Systems Analyst and Developer and passionate about Development.
 
+Cleber is a student and developer focused on Java, kotlin and Spring, always aiming to share the best practices and market trends for software development.
 
 - 💼 Android Mobile Developer
 - 📲 Techs: Android Native, Java, Kotlin, React Native, API RestFull
