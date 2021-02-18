@@ -13,4 +13,5 @@ Cleber is a student and developer focused on Java, kotlin and Spring, always aim
 
 - 💼 Android Mobile Developer
 - 📲 Techs: Android Native, Java, Kotlin, React Native, API RestFull, SpringBoot
-- 📚 Studying: Specialization in Mobile Application Development (App's) (Postgraduate)
+- 📚 Graduate: Analysis and Systems Development
+- 📚 Postgraduate: Specialization in Mobile Application Development
