@@ -17,6 +17,6 @@ Cleber is a student and developer focused on Java, kotlin and Spring, always aim
 - 📚 Postgraduate: Specialization in Mobile Application Development
 
 <p>
-  <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=cleber&show_icons=true&layout=compact&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleber&show_icons=true&layout=compact&theme=radical" />
+  <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=clebernascimento&show_icons=true&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebernascimento&show_icons=true&layout=compact&theme=radical" />
 </p>
