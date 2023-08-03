@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cleber Nascimento</h1>
 <h3 align="center">Developer Mobile Android</h3>
-<img align="right" alt="Coding" width="400"src="https://user-images.githubusercontent.com/125440375/219616451-d945dd2e-356d-44bd-a3e4-690a7210b449.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clebernascimento&label=Profile%20views&color=0e75b6&style=flat" alt="clebernascimento" /> </p>
 
 - 🌱 I’m currently learning: **React Native**
