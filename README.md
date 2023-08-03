@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **React Native**
 
-- 💬 Ask me about: **Android native, Java, Kotlin, Jetpack Compose**
+- 💬 Ask me about: **Android Native, Java, Kotlin, Jetpack Compose**
 
 - 📫 How to reach me: **cleber.nascimento85@outlook.com**
 
