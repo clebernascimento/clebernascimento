@@ -1,24 +1,31 @@
-<h1>👨‍💻 Cleber Nascimento</h1>
+<h1 align="center">Hi 👋, I'm Cleber Nascimento</h1>
+<h3 align="center">Developer Mobile Android</h3>
+<img align="right" alt="Coding" width="400"src="https://user-images.githubusercontent.com/125440375/219616451-d945dd2e-356d-44bd-a3e4-690a7210b449.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clebernascimento&label=Profile%20views&color=0e75b6&style=flat" alt="clebernascimento" /> </p>
 
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-nascimento/)](https://www.linkedin.com/in/cleber-nascimento/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/clebernascimento)](https://t.me/clebernascimento)
-  
+- 🌱 I’m currently learning **React Native**
 
-### Hi There 👋
+- 💬 Ask me about **Android native, Java, Kotlin, Jetpack Compose**
 
-My name is Cleber Nascimento, Systems Analyst and Developer and passionate about Development.
+- 📫 How to reach me **cleber.nascimento85@outlook.com**
 
-Cleber is a student and developer focused on Java, kotlin and Spring, always aiming to share the best practices and market trends for software development.
-
-- 💼 Android Mobile Developer
-- 📲 Techs: Android Native, Java, Kotlin, React Native, API RestFull, SpringBoot
-- 📚 Graduate: Analysis and Systems Development
-- 📚 Postgraduate: Specialization in Mobile Application Development
-
-<p>
-  <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=clebernascimento&show_icons=true&layout=compact&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebernascimento&show_icons=true&layout=compact&theme=radical" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/cleber-nascimento/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cleber-nascimento/" height="30" width="40" /></a>
 </p>
-<p>
-  <img height="180em" margin-top src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clebernascimento&theme=github_dark" />
-</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.android.com/intl/pt-BR_br/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="java" width="40" height="40"/> </a>
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clebernascimento&show_icons=true&locale=en&layout=compact" alt="clebernascimento" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clebernascimento&show_icons=true&locale=en" alt="clebernascimento" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clebernascimento&" alt="clebernascimento" /></p>
